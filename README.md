@@ -11,4 +11,4 @@ I also noticed that more males made typos, based on the fact that more than one 
 As for plotting that information, I couldn't actually see a better way than by explaining in text, so I just plotted the ratio of male to female enrolments by year, as shown below.
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/1OkrFN5RvGshxefPxXQD4ZSRz9sBR8-vbEzXiWsvYtT0/pubchart?oid=1885533467&amp;format=interactive"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1OkrFN5RvGshxefPxXQD4ZSRz9sBR8-vbEzXiWsvYtT0/pubchart?oid=1885533467&amp;format=interactive" width="1024" height="800"></iframe>
